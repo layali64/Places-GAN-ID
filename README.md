@@ -1,1 +1,1 @@
-# Places-GAN-ID
+# Places-GAN-Improved Diffusion
